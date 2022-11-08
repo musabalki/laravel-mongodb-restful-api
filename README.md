@@ -7,25 +7,25 @@
 - Jwt
 
 ### Register Validation
-<img src="screen/register_validation.png" />
+<img src="screens/register_validation.png" />
 
 ### Unique Email
-<img src="screen/unique_email.png" />
+<img src="screens/unique_email.png" />
 
 ### Create User
-<img src="screen/create_user.png" />
+<img src="screens/create_user.png" />
 
 ### User
-<img src="screen/user.png" />
+<img src="screens/user.png" />
 
 ### Invalid User
-<img src="screen/user_invalid.png" />
+<img src="screens/user_invalid.png" />
 
 ### Get Products
-<img src="screen/get_products.png" />
+<img src="screens/get_products.png" />
 
 ### Find Product
-<img src="screen/find_product.png" />
+<img src="screens/find_product.png" />
 
 ### User Role cannot Add Product
-<img src="screen/user_invalid.png" />
+<img src="screens/user_invalid.png" />
