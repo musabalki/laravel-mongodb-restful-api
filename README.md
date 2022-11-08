@@ -6,14 +6,11 @@
 - Sanctum
 - Jwt
 
-### Register Validation
-<img src="screens/register_validation.png" />
-
-### Unique Email
-<img src="screens/unique_email.png" />
-
 ### Create User
 <img src="screens/create_user.png" />
+
+### Register Validation
+<img src="screens/register_validation.png" />
 
 ### User
 <img src="screens/user.png" />
@@ -28,4 +25,7 @@
 <img src="screens/find_product.png" />
 
 ### User Role cannot Add Product
-<img src="screens/user_invalid.png" />
+<img src="screens/user_role_product.png" />
+
+### Get Orders
+<img src="screens/get_orders.png" />
